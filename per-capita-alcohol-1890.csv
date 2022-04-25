@@ -78,13 +78,13 @@ Netherlands,NLD,1980,8.6
 Netherlands,NLD,1990,8.1
 Netherlands,NLD,2000,7.9
 Netherlands,NLD,2014,7.4
-New Zealand,NZL,1890,3.8
-New Zealand,NZL,1960,6.7
-New Zealand,NZL,1970,8.9
-New Zealand,NZL,1980,9.1
-New Zealand,NZL,1990,7.6
-New Zealand,NZL,2000,6.5
-New Zealand,NZL,2014,6.4
+NewZealand,NZL,1890,3.8
+NewZealand,NZL,1960,6.7
+NewZealand,NZL,1970,8.9
+NewZealand,NZL,1980,9.1
+NewZealand,NZL,1990,7.6
+NewZealand,NZL,2000,6.5
+NewZealand,NZL,2014,6.4
 Norway,NOR,1960,4
 Norway,NOR,1970,5.5
 Norway,NOR,1980,5.2
@@ -105,18 +105,18 @@ Switzerland,CHE,1980,11.4
 Switzerland,CHE,1990,9.6
 Switzerland,CHE,2000,8.7
 Switzerland,CHE,2014,8.3
-United Kingdom,GBR,1890,8.7
-United Kingdom,GBR,1920,4.5
-United Kingdom,GBR,1960,5.7
-United Kingdom,GBR,1970,7.7
-United Kingdom,GBR,1980,8
-United Kingdom,GBR,1990,7.5
-United Kingdom,GBR,2000,8.8
-United Kingdom,GBR,2014,8
-United States,USA,1890,5.3
-United States,USA,1960,5.8
-United States,USA,1970,7.4
-United States,USA,1980,7.7
-United States,USA,1990,6.5
-United States,USA,2000,6.7
-United States,USA,2014,7
+UnitedKingdom,GBR,1890,8.7
+UnitedKingdom,GBR,1920,4.5
+UnitedKingdom,GBR,1960,5.7
+UnitedKingdom,GBR,1970,7.7
+UnitedKingdom,GBR,1980,8
+UnitedKingdom,GBR,1990,7.5
+UnitedKingdom,GBR,2000,8.8
+UnitedKingdom,GBR,2014,8
+UnitedStates,USA,1890,5.3
+UnitedStates,USA,1960,5.8
+UnitedStates,USA,1970,7.4
+UnitedStates,USA,1980,7.7
+UnitedStates,USA,1990,6.5
+UnitedStates,USA,2000,6.7
+UnitedStates,USA,2014,7
